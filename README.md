@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- OPCIÓN A: GIF desde Giphy (funciona en GitHub) -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-<!-- OPCIÓN B: imagen subida al repo (recomendado, 100% confiable) -->
-<!-- <img src="./assets/banner.gif" width="280" alt="banner" /> -->
 
 # Hi, I'm Santiago! 👾
 
@@ -19,7 +15,7 @@ Bucaramanga, Colombia
 
 <br>
 
-## `[ whoami ]`
+## 🧑‍💻 `About me`
 
 Systems Engineering student on the final stretch, passionate about **cybersecurity** and **data analysis**. I like working close to the infrastructure layer — configuring servers, managing networks, and understanding how systems really work.
 
@@ -33,23 +29,44 @@ class Santiago:
 
 <br>
 
-## `[ skills ]`
+## ⚡ `Skills`
 
 **🛡️ Infrastructure & Security**
 
-`Active Directory` `GPOs` `Hetzner` `Linux` `Nginx` `Docker` `WSL2` `DNS/DHCP` `Firewalls` `OWASP`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/GPOs-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewalls-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS%2FDHCP-005C84?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **💻 Full Stack Development**
 
-`ASP.NET Core` `.NET 8` `PostgreSQL` `PL/pgSQL` `Dapper` `Bootstrap 5` `jQuery` `AJAX` `REST APIs` `Swagger`
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 
 **📊 Data & Scripting**
 
-`Python` `pandas` `SQL` `Bash` `Git`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
-## `[ projects ]`
+## 🗂️ `Projects`
 
 **📦 Product & Category Management App**
 Full stack CRUD app — `.NET 8 API` + `PostgreSQL` + `ASP.NET WebForms`. Stored procedures, REST API with Swagger, CORS enabled.
@@ -62,7 +79,7 @@ Professional landing page for an independent physiotherapist — 8 sections, 5 p
 
 <br>
 
-## `[ experience ]`
+## 🏅 `Experience`
 
 ```
 [✔] Active Directory / GPO management .... enterprise-level policies
