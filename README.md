@@ -83,12 +83,12 @@ Professional landing page for an independent physiotherapist — 8 sections, 5 p
 
 ```
 [✔] Active Directory / GPO management .... enterprise-level policies
-[✔] Hetzner server provisioning .......... Ubuntu/Debian environments
+[✔] Hetzner server provisioning .......... Windows Server environments
 [✔] Network infrastructure ............... DNS, DHCP, VLANs, firewall
 [✔] WSL2 + Docker + Nginx ................ Odoo local dev setup
 [✔] Full stack app (products CRUD) ....... .NET 8 + PostgreSQL + WebForms
 [✔] Physiotherapy landing page ........... Netlify + security headers
-[✔] Data analysis projects ............... Python, pandas, SQL
+[✔] Data analysis projects ............... Python, pandas, SQL, PowerBI
 ```
 
 <br>
