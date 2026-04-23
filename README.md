@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="[https://media.tenor.com/Wb_3fGMDLyQAAAAd/cat-coding.gif](https://www.pinterest.com/pin/433753007844792951/)" width="513" height="432" alt="coding cat" />
+<!-- OPCIÓN A: GIF desde Giphy (funciona en GitHub) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+
+<!-- OPCIÓN B: imagen subida al repo (recomendado, 100% confiable) -->
+<!-- <img src="./assets/banner.gif" width="280" alt="banner" /> -->
 
 # Hi, I'm Santiago! 👾
 
@@ -13,9 +17,9 @@ Bucaramanga, Colombia
 
 </div>
 
----
+<br>
 
-### `> whoami`
+## `[ whoami ]`
 
 Systems Engineering student on the final stretch, passionate about **cybersecurity** and **data analysis**. I like working close to the infrastructure layer — configuring servers, managing networks, and understanding how systems really work.
 
@@ -24,12 +28,12 @@ class Santiago:
     degree    = "Systems Engineering (graduating soon 🎓)"
     location  = "Bucaramanga, Colombia"
     interests = ["Cybersecurity", "Data Analysis", "Infrastructure", "Full Stack"]
-    currently = "Finishing thesis & sharpening offensive security skills"
+    currently = "Waiting for my degree and sharpening security and data skills"
 ```
 
----
+<br>
 
-### `> ls skills/`
+## `[ skills ]`
 
 **🛡️ Infrastructure & Security**
 
@@ -43,9 +47,9 @@ class Santiago:
 
 `Python` `pandas` `SQL` `Bash` `Git`
 
----
+<br>
 
-### `> cat projects.log`
+## `[ projects ]`
 
 **📦 Product & Category Management App**
 Full stack CRUD app — `.NET 8 API` + `PostgreSQL` + `ASP.NET WebForms`. Stored procedures, REST API with Swagger, CORS enabled.
@@ -56,9 +60,9 @@ Containerized Odoo ERP with Docker + Nginx reverse proxy, deployed on WSL2.
 **🏥 Physiotherapy Landing Page**
 Professional landing page for an independent physiotherapist — 8 sections, 5 pricing packages with WhatsApp CTAs, serverless booking form, HTTP security headers. Deployed on **Netlify**.
 
----
+<br>
 
-### `> cat experience.log`
+## `[ experience ]`
 
 ```
 [✔] Active Directory / GPO management .... enterprise-level policies
@@ -68,24 +72,15 @@ Professional landing page for an independent physiotherapist — 8 sections, 5 p
 [✔] Full stack app (products CRUD) ....... .NET 8 + PostgreSQL + WebForms
 [✔] Physiotherapy landing page ........... Netlify + security headers
 [✔] Data analysis projects ............... Python, pandas, SQL
-[~] CTF challenges ....................... ongoing
 ```
 
----
-
-### `> cat certifications_roadmap.txt`
-
-- 📌 CompTIA Security+
-- 📌 Google Cybersecurity Certificate
-- 📌 AZ-900 (Azure Fundamentals)
-
-> *"The quieter you become, the more you can hear."* — Kali Linux
-
----
+<br>
 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntgo22&layout=compact&theme=github_dark&hide_border=true)
+
+<br>
 
 ```
 > Connection established. Open to opportunities. Let's build something.
