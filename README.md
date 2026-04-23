@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media.tenor.com/Wb_3fGMDLyQAAAAd/cat-coding.gif](https://www.pinterest.com/pin/433753007844792951/)" width="280" alt="coding cat" />
+<img src="[https://media.tenor.com/Wb_3fGMDLyQAAAAd/cat-coding.gif](https://www.pinterest.com/pin/433753007844792951/)" width="513" height="432" alt="coding cat" />
 
 # Hi, I'm Santiago! 👾
 
