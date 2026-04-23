@@ -11,9 +11,9 @@
 
 **`Systems Engineering Student (almost there) · Bucaramanga, Colombia`**
 
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabcruz200290@email.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-bolaños-9b9093289/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sntgo22)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@email.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
 </div>
 
@@ -88,13 +88,13 @@ class Santiago:
 ## `$ top --interests`
 
 ```
-PID   PROCESS          CPU    STATUS
-001   cybersecurity    ██████ running
-002   data_analysis    █████  running
-003   infrastructure   ████   running
-004   full_stack_dev   ████   running
-005   ctf_challenges   ███    running
-006   coffee.service   ██████ critical
+PID   PROCESS          CPU      STATUS
+001   cybersecurity    [||||||] running
+002   data_analysis    [|||||·] running
+003   infrastructure   [||||··] running
+004   full_stack_dev   [||||··] running
+005   ctf_challenges   [|||···] running
+006   coffee.service   [||||||] critical
 ```
 
 ---
@@ -153,26 +153,14 @@ $ nginx -t && nginx      # Reverse proxy configured
 
 ---
 
-## `$ cat certifications_roadmap.txt`
-
-Currently studying toward:
-
-- 📌 **CompTIA Security+**
-- 📌 **Google Cybersecurity Certificate**
-- 📌 **AZ-900 (Azure Fundamentals)**
-
-> *"The quieter you become, the more you can hear."* — Kali Linux
-
----
-
 ## `$ ping contact`
 
 <div align="center">
 
 | | |
 |---|---|
-| 📧 **Email** | [tu.correo@email.com](sabcruz200290@email.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/santiago-bolaños-9b9093289/) |
+| 📧 **Email** | [tu.correo@email.com](mailto:tu.correo@email.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) |
 | 📍 **Location** | Bucaramanga, Colombia |
 
 </div>
@@ -181,8 +169,8 @@ Currently studying toward:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sntgo22&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntgo22&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
